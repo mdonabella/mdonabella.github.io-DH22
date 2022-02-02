@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Lab #1: Understanding GitHub & Markdown
