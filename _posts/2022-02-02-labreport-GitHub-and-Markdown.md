@@ -11,7 +11,7 @@ comments: true
 
 ## (1) Process
 ### Getting to know GitHub
-Prior to this lab, I had used GitHub only once before. I have vague memory of the specifics of this interaction, but I know I experimented with the site either to test or compare lines of codes. Therefore, I approached the lab with a basic understanding of some of the afforfances of GitHub, but had not used it in a personalized way. This time around, getting to GitHub and making an account was fairly straightforward. And while editing the site on my own has definitely been a process of trial and error, each step we walked through during the in-class portion of the lab was very clarifying.
+Prior to this lab, I had used GitHub only once before. I have vague memory of the specifics of this interaction, but I know I experimented with the site either to test or compare lines of codes. Therefore, I approached the lab with a basic understanding of some of the affordances of GitHub, but had not used it in a personalized way. This time around, getting to GitHub and making an account was fairly straightforward. And while editing the site on my own has definitely been a process of trial and error, each step we walked through during the in-class portion of the lab was very clarifying.
 
 Now that I have my webpage set up and was able to follow the steps in our in-class lab sessions, I am playing with the desktop versions of GitHub and markdown on my computer. To do this, I have downloaded GitHub Desktop and Ulysses (to write in markdown). I chose Ulysses both because I have heard it mentioned in other contexts and… well… its Joyce connection is fun, even if insignificant. The next step from here will be learning to successfully upload from GitHub Desktop. 
 
