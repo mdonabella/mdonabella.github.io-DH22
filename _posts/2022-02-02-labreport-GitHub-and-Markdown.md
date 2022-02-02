@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
- text-align: justify; 
+ 
 # Lab #1: Understanding GitHub & Markdown
 ## Reflections & Goals
 
