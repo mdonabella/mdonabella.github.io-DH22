@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab #1: Understanding GitHub & Markdown
+title: Lab #1:Understanding GitHub & Markdown
 subtitle: Reflections & Goals
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,8 +8,6 @@ tags: [test]
 comments: true
 ---
  
-# Lab #1: Understanding GitHub & Markdown
-## Reflections & Goals
 
 ## (1) Process
 ### Getting to know GitHub
