@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab #1:Understanding GitHub & Markdown
+title: Lab 01 - Understanding GitHub & Markdown
 subtitle: Reflections & Goals
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
