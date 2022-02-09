@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lab 02 - Spreadsheets
-subtitle: Understanding Metadata, Charts, & Basic Visualization 
+subtitle: Understanding Metadata & Basic Visualization 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab report]
