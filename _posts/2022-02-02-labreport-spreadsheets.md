@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
+title: Lab 02: Spreadsheets
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [lab report]
 comments: true
 ---
 ## Lab #2: Spreadsheets, Charts, & Metadata
