@@ -7,9 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-## Lab #2: Spreadsheets, Charts, &
-
- Metadata
+## Lab #2: Spreadsheets, Charts, & Metadata
 
 * To get started, here are my links:
 	1. [Trans-Atlantic Slave Trade Dataset and Pivot Tables](https://docs.google.com/spreadsheets/d/1S7Qx0P612gnQgRt7em_t_sCeVKTv0OobmoQQ4yzo__k/edit?usp=sharing) 
