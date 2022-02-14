@@ -24,15 +24,15 @@ The steps I ultimately took to reach the desired outcome for Lab 3 are below:
 Final outcome:
 1. [Via RegEx101](https://regex101.com/r/6vnjU7/1)
 2. Copied over: 
-  -Jewish Advocate,Boston MA
-  -Washington Informer,Washington DC
-  -News from Indian Country,Hayward WI
+  - Jewish Advocate,Boston MA
+  - Washington Informer,Washington DC
+  - News from Indian Country,Hayward WI
   - Afro  American 5 Star edition,Baltimore MD
   - Diverse Issues in Higher Education,Fairfax VA
   - The Gay amp Lesbian Review Worldwide,Boston MA
   - The Hispanic Outlook in Higher Education,Paramus NJ
   
-  * (*No one tell me if there are still errors. Kidding but not really.*)
+  (*No one tell me if there are still errors. Kidding but not really.*)
 
 I did not arrive at those 10 steps, however, without several hours (like, more than one day) of experimentation and failure. Read about that process [here](https://docs.google.com/document/d/1XU2JkEqqJ5mDpM3EtjCLRLEmfPgEle40BtFl-XAZt-4/edit?usp=sharing). 
 
