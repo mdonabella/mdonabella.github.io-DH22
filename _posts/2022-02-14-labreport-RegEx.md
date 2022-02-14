@@ -1,12 +1,13 @@
- ---
+---
 layout: post
-title: From Context to Standard Setting
+title: Lab 03 - From Context to Standard Settings
 subtitle: Introductory Practice with Regular Expressions
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow](#)
-tags: [labreport](#)
+gh-badge: [star, fork, follow]
+tags: [lab report]
 comments: true
 ---
+
 ## The Process of Understanding and Final Steps
 The steps I ultimately took to reach the desired outcome for Lab 3 are below: 
 1. (“) → nothing
