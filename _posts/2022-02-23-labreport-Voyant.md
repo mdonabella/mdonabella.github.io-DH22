@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lab 04 - Exploratory Data & Voyant
-subtitle: Possbilities and Limits of Qualitative Text Data
+subtitle: Possbilities and Limits of Quantitative Text Data
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab report]
