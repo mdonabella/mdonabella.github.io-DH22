@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab 05 - Python & Approaches Programming
+title: Lab 05 - Python & Approaches to Programming
 subtitle: When is Coding Necessary?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
