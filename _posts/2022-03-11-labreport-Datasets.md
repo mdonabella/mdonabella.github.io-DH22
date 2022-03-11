@@ -38,7 +38,7 @@ As a product of a series of comparative analyses, often incorporating data from 
 	“Collection 32: Top U.S. Newspapers.” WE1S, 4Humanities, https://we1s.ucsb.edu/wp-content/uploads/C-HS-1.pdf. 
 	
 	Flanders, Julia, et al. "Data Modeling in a Digtial Humanities Context: An Introduction". 
-		_The Shape of Data in the Digital Humanities : Modeling Texts and Text-Based Resources._ Routledge, 2019.
+		*The Shape of Data in the Digital Humanities : Modeling Texts and Text-Based Resources.* Routledge, 2019.
 	
 	“WE1S Datasets.” WE1S, 4Humanities, https://.we1s.ucsb.edu/research/ we1s-materials/datasets/. 
 
