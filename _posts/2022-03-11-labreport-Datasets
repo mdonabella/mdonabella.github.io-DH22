@@ -8,7 +8,6 @@ tags: [lab report]
 comments: true
 ---
 
-
 ### [1: The Metadata](https://docs.google.com/spreadsheets/d/147DHuftwfV84JWf8wP5lp80rcZ0X9szjBWxJY79Qy3Y/edit?usp=sharing)
 
 ### 2: Analysis
@@ -50,4 +49,4 @@ As a product of a series of comparative analyses, often incorporating data from 
 
 [^1]:	WhatEvery1Says (WE1S) is a collaborate initiative out of 4humanities.org and involving researchers out of various universities that looks at how the humanities is perceived in the media and in the public. WE1S Directors include Alan Liu, Jeremy Douglass, Scott Kleinman, and Lindsay Thomas. To created various datasets, researchers pulled data from mainstream and local news sources, Reddit, and Twitter that did and did not talk about the humanities. Researchers also collected survey data from university students. See [[] https://we1s.ucsb.edu/research/we1s-findings/key-findings/ ](https://we1s.ucsb.edu/research/we1s-findings/key-findings/)for key findings.
 
-[^2]:	According to Google, and “[rival security.com](https://www.rivialsecurity.com/blog/data-tokenization#:~:text=What%20Is%20a%20Data%20Token,data%2C%20without%20compromising%20its%20security.)” in particular, a token is a “completely randomized data string without any intrinsic value or meaning.” In the context of text data, I take this to mean randomly pulled words within an article that cannot together replicate the sum of the meaning of each article but rather indicate some of its components.
+[^2]:	According to Google, and “[rival security.com](https://www.rivialsecurity.com/blog/data-tokenization#:~:text=What%20Is%20a%20Data%20Token,data%2C%20without%20compromising%20its%20security.)” in particular, a token is a “completely randomized data string without any intrinsic value or meaning.” In the context of text data, I take this to mean randomly pulled words within an article that cannot together replicate the sum of the meaning of each article but rather indicate some of its components. 
