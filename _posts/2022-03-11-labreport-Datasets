@@ -7,7 +7,6 @@ gh-badge: [star, fork, follow]
 tags: [lab report]
 comments: true
 ---
-
 ### [1: The Metadata](https://docs.google.com/spreadsheets/d/147DHuftwfV84JWf8wP5lp80rcZ0X9szjBWxJY79Qy3Y/edit?usp=sharing)
 
 ### 2: Analysis
@@ -32,3 +31,21 @@ The comparison-not-humanities dataset, along with several other datasets include
 #### Brief Summary 
 As a product of a series of comparative analyses, often incorporating data from comparison-not-humanities, [WE1S was able to target](https://we1s.ucsb.edu/research/we1s-findings/key-findings/) when and where the humanities is left out and the ways in which it might be seen in the pejorative when included in conversation. As a response, they ultimately provide several [action and communication steps](https://we1s.ucsb.edu/recommendations/) for humanists and students in/of the humanities to help change the perception around the humanities.  Where humanities work is undervalued and obscured but always needed, this seems urgently useful and important. 
 
+### Sources Mentioned
+
+	“Collection 20: Top U.S. Newspapers.” WE1S, 4Humanities, https://we1s.ucsb.edu/wp-content/uploads/C-HS-1.pdf. 
+	
+	“Collection 32: Top U.S. Newspapers.” WE1S, 4Humanities, https://we1s.ucsb.edu/wp-content/uploads/C-HS-1.pdf. 
+	
+	Flanders, Julia, et al. "Data Modeling in a Digtial Humanities Context: An Introduction". _The Shape of Data in the Digital Humanities : Modeling Texts and Text-Based Resources._ Routledge, 2019.
+	
+	“WE1S Datasets.” WE1S, 4Humanities, https://.we1s.ucsb.edu/research/ we1s-materials/datasets/. 
+
+
+
+
+
+
+[^1]:	WhatEvery1Says (WE1S) is a collaborate initiative out of 4humanities.org and involving researchers out of various universities that looks at how the humanities is perceived in the media and in the public. WE1S Directors include Alan Liu, Jeremy Douglass, Scott Kleinman, and Lindsay Thomas. To created various datasets, researchers pulled data from mainstream and local news sources, Reddit, and Twitter that did and did not talk about the humanities. Researchers also collected survey data from university students. See [[] https://we1s.ucsb.edu/research/we1s-findings/key-findings/ ](https://we1s.ucsb.edu/research/we1s-findings/key-findings/)for key findings.
+
+[^2]:	According to Google, and “[rival security.com](https://www.rivialsecurity.com/blog/data-tokenization#:~:text=What%20Is%20a%20Data%20Token,data%2C%20without%20compromising%20its%20security.)” in particular, a token is a “completely randomized data string without any intrinsic value or meaning.” In the context of text data, I take this to mean randomly pulled words within an article that cannot together replicate the sum of the meaning of each article but rather indicate some of its components. 
