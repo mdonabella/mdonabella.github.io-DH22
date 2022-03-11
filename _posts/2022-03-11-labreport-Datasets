@@ -1,12 +1,13 @@
-
 ---
 layout: post
-title: Lab 06: Exploring Large Scale Datasets
-subtitle: Working with JSON & Exploring WE1S Findings (among other things)
+title: Lab 06 - Working with Large Scale Datasets
+subtitle: (& and Introduction to JSON)
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab report]
+comments: true
 ---
+
 
 ### [1: The Metadata](https://docs.google.com/spreadsheets/d/147DHuftwfV84JWf8wP5lp80rcZ0X9szjBWxJY79Qy3Y/edit?usp=sharing)
 
