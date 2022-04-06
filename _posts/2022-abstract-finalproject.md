@@ -1,11 +1,10 @@
 ---
 layout: post
-title: *Cyborg* in Popular Cultural Criticsm
+title: Uses of Cyborg in Popular Cultural Criticism
 subtitle: Interrogating Figurations of Body with/as Machine
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab report]
-comments: true
 ---
 
 My dataset, “‘Cyborg’ in Popular Cultural Criticism,” will examine uses of the term “cyborg” in popular U.S. culture literary magazines. Why? While I am compelled by [criticisms in feminist and disability theory](https://dsq-sds.org/article/view/3995/3540) of the use of “cyborg” as a unilateral metaphor for futurity that invokes the disabled body but evades the [lived physicality](# "https://granta.com/common-cyborg/"), cost, and potential complications of medical technology, I want to investigate how much the word appears outside of Theory. That is, while more problematic elements of [Donna Haraway’s employment of “cyborg”](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf) continue (I say optimistically) to fall out of fashion, I am interested in how this term is used in culture writing and criticism that does not necessarily subscribe to a particular Theory label and instead addresses the wider media-interested public. 
