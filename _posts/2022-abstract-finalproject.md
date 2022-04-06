@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cyborg" in Popular Cultural Crticism
-subtitle: Interrogation Figurations of the Body as/with Machine
+title: "Cyborg" in Popular Cultural Criticism
+subtitle: Interrogating Figurations of Body with/as Machine
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab report]
