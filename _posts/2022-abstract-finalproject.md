@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Cyborg in Popular Cultural Crticism"
+title: ""Cyborg" in Popular Cultural Crticism"
 subtitle: Interrogation Figurations of the Body as/with Machine
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
