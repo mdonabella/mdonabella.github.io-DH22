@@ -23,4 +23,3 @@ Through this dataset, I aim to make visible where and in what general context ‚Ä
 
 Sources Cited: Kafer, Alison. *Feminist, Queer, Crip,* Indiana University Press, 2013, pp. 107-115.
 
-Visualization: Sinclair, St√©fan and Geoffrey Rockwell. *Voyant Tools*. 2022. Web. 8 Apr 2022.&
