@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uses of "Cyborg" in Popular Criticism & Short-form Fiction
-subtitle: Interrogating Figurations of Body with/as Machine
+subtitle: Interrogating Figurations of Body with/as/like Machine
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab report]
