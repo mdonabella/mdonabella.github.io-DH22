@@ -25,3 +25,5 @@ Sources Cited: Kafer, Alison. *Feminist, Queer, Crip,* Indiana University Press,
 
 Sample of dataset: [here](https://docs.google.com/spreadsheets/d/1YizZfnrWhuFrXeK7kf3XHbW83NB0csiTpRlQsq_ZsPs/edit?usp=sharing).
 Tools used: Sinclair, Stéfan and Geoffrey Rockwell. "Documents." Voyant Tools. 2022. Web. 8 Apr 2022. https://voyant-tools.org/?corpus=cca05f5ce85ce8875437e8e8f6ea97cd&stopList=keywords-8d1f837d9552cdb624b0f94772287472&query=new&query=cyborg*&view=Documents
+
+Sinclair, Stéfan and Geoffrey Rockwell. "Collocates." Voyant Tools. 2022. Web. 8 Apr 2022. https://voyant-tools.org/?corpus=cca05f5ce85ce8875437e8e8f6ea97cd&query=cyborg*&panels=cirrus,reader,trends,summary,contexts&view=CorpusCollocates
