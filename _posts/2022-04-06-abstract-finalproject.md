@@ -23,3 +23,4 @@ Through this dataset as a whole, I aim to make visible where and in what general
 
 Sources Cited: Kafer, Alison. *Feminist, Queer, Crip,* Indiana University Press, 2013, pp. 107-115.
 
+Sample of dataset: [here](https://docs.google.com/spreadsheets/d/1YizZfnrWhuFrXeK7kf3XHbW83NB0csiTpRlQsq_ZsPs/edit?usp=sharing).
