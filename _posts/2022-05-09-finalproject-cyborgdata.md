@@ -93,16 +93,16 @@ Thematically and conceptually, then, this dataset falls short of making visible 
 
 ### Bibliography
 
-Kafer, Alison. “Cyborg.” Encyclopedia of American Disability History, edited by Susan Burch. Facts On File, 2009.
+Kafer, Alison. “Cyborg.” *Encyclopedia of American Disability History*, edited by Susan Burch. Facts On File, 2009.
 
-Kafer, Alison. Feminist, Queer, Crip. Indiana University Press, 2013, pp. 103-128. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/miami/detail.action?docID=1189107.
+Kafer, Alison. *Feminist, Queer, Crip*. Indiana University Press, 2013, pp. 103-128. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/miami/detail.action?docID=1189107.
 
 Sandoval, Chéla. “Re-Entering Cyberspace: Sciences of Resistance.” Dispositio, vol. 19, no. 46, 1994, pp. 75–93. JSTOR, http://www.jstor.org/stable/41491506.
 
-Siebers, Tobin. “Disability in Theory: From Social Constructionism to the New Realism of the Body.” American Literary History, vol. 13, no. 4, 2001, pp. 737–54. JSTOR, http://www.jstor.org/stable/3054594.
+Siebers, Tobin. “Disability in Theory: From Social Constructionism to the New Realism of the Body.” *American Literary History,* vol. 13, no. 4, 2001, pp. 737–54. JSTOR, http://www.jstor.org/stable/3054594.
 
-Weise, Jillian. “Common Cyborg.” Disability Visibility: First-person Stories from the Twenty-First Century, edited by Alice Wong, 2020, pp. 63-74.
+Weise, Jillian. “Common Cyborg.” *Disability Visibility: First-person Stories from the Twenty-First Century*, edited by Alice Wong, 2020, pp. 63-74.
 
-Weise, Jillian. “The Dawn of the ‘Tryborg.’” The New York Times, 30 Nov. 2016, https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html.
+Weise, Jillian. “The Dawn of the ‘Tryborg.’” *The New York Times*, 30 Nov. 2016, https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html.
 
-Wong, Alice. “Ep 66: Cyborgs.” Disability Visibility Project, 19 Dec. 2019, https://disabilityvisibilityproject.com/2019/12/18/ep-66-cyborgs/.
+Wong, Alice. “Ep 66: Cyborgs.” *Disability Visibility Project*, 19 Dec. 2019, https://disabilityvisibilityproject.com/2019/12/18/ep-66-cyborgs/.
