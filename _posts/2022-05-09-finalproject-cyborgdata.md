@@ -39,7 +39,7 @@ How, though, did Voyant aid in this process? The initial steps were fairly tedio
 
 ![figure 1: screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://mdonabella.github.io/assets/img/figure-1.png)
 
-*figure 1: screenshot of Voyant's default text analysis in response to *The New Yorker* corpus*
+*figure 1: screenshot of Voyant's default text analysis in response to The New Yorker corpus*
 
 #### Task 2: Text Analysis in Voyant
 From here, I was able to generate much of my desired information about each article. Due to largely to copyright constraints, however, this information was limited to *title*, *author*, *date*, *keywords*, *count*, and *collocates*. This dataset does also include *links*, but all links were copied and pasted manually. The steps to obtain my fields worked as follows: 
