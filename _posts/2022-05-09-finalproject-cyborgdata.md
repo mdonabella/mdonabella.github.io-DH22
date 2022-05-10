@@ -83,8 +83,11 @@ With respect to literary and culture magazines alone, the dataset is best read a
 To answer the above inquiries, however, it seems worthwhile to explore common topics and keywords across media rather than within each individual domain. (See figures 5-8).
 
 ![figure 5: screenshot of pie chart displaying first group of named entites by percentage](https://mdonabella.github.io/assets/img/figure-5.png) 
+
 ![figure: screenshot of pie chart displaying second group of named entites by percentage](https://mdonabella.github.io/assets/img/figure-6.png) 
+
 ![figure 7: screenshot of pie chart displaying third group of named entites by percentage](https://mdonabella.github.io/assets/img/figure-7.png) 
+
 ![figure 8: screenshot of pie chart displaying user location by percentage](https://mdonabella.github.io/assets/img/figure-8.png)
 
 The above figures show that auto ads (if we read further into Tweet text), popular entertainment, sci-fi films and cryptocurrency are among the most popular topics within tweets that use the term “cyborg” (located and diagnosed by the Twitter API). Relatedly, then, a plurality of Twitter users who identify as “cyborg” tag their location as “Metaverse” or “The Metaverse” (6.6% combined). Disability, medicine, and healthcare are not to be found among top named entities, while only five of the three hundred (or 1.7%) of the top searchable users two identify as cyborg also identify in their user description as disabled. Of almost seventy *New Yorker* articles that mention “cyborg,” 13% mention “tech” within their respective keywords, 18% mention “movie,” and some iteration of “super,” whether it be heroes or computers, is listed within title, keywords, or collocates in several documents. In contrast, “medicine” is only tagged as a keyword in one article and “disability” in zero. 
