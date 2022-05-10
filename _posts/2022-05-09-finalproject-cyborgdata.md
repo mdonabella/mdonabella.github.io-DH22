@@ -37,14 +37,14 @@ In order to obtain data and metadata from each publication, I turned to [Voyant]
 #### Task 1: Getting Corpus to Voyant
 How, though, did Voyant aid in this process? The initial steps were fairly tedious, and to best create a visual, I will use the *The New Yorker* as an example: (1) Open Voyant. (2) In a separate tab, visit https://www.newyorker.com/. (2) Locate the general “search” function within *The New Yorker* website and search “cyborg.” (3)  Sort search by “newest.” (4) Right click the title of each article (yes, one by one) and “copy link address” into the box at the center of Voyant’s homepage, under “add text.” (5) With all links (dating back to 2012) copied into Voyant, click “Reveal” on the homepage (see Figure 1 for intended outcome at this stage). 
 
-![Figure 1: Screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://github.com/mdonabella/mdonabella.github.io/blob/0c6b67c87a860430cd4f2bf2f3d351ce324b5c48/assets/img/Screen%20Shot%202022-05-09%20at%2012.27.13%20PM.png)
+![Figure 1: Screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://mdonabella.github.io/assets/img/figure-1.png)
 
 #### Task 2: Text Analysis in Voyant
 From here, I was able to generate much of my desired information about each article. Due to largely to copyright constraints, however, this information was limited to *title*, *author*, *date*, *keywords*, *count*, and *collocates*. This dataset does also include *links*, but all links were copied and pasted manually. The steps to obtain my fields worked as follows: 
 
 (1) Choose the “Documents” tab in the bottom left of the application. (2) Hover mouse above the top right of any one of the fields within the tool (e.g., hover mouse in the top right of “Tile”). (3) A down arrow should become visible; click on it and then select “Columns.” (4) Under “Columns,” select “Title,” “Author,” “Date,” and “Keywords.” (5) Voyant will populate the “Documents” tool with all fields it can locate based on the website-specific HTML tags. Some fields will be missing or inaccurate; remove these fields (for example, HTML files from *The New Yorker* will not allow Voyant to pull author and date, but HTML files from *The Atlantic* will). (6) As the final step in this stage, hover mouse over the top right of the “Document” tool and click on the left-most icon (to export the data). (7) Under exportation options, click “Export Current Data” then “export data as tab separated values (text)." The screen should look like the figure below (Figure 2). (8) Open a .csv file. (9) Paste this data into the newly created .csv file. 
 
-![Figure 2: Screenshot of the exportation of first several fields yielded by Voyant as tab separated values using the "Documents" tool.](https://github.com/mdonabella/mdonabella.github.io/blob/0c6b67c87a860430cd4f2bf2f3d351ce324b5c48/assets/img/Screen%20Shot%202022-05-08%20at%2010.01.01%20PM.png)
+![Figure 2: Screenshot of the exportation of first several fields yielded by Voyant as tab separated values using the "Documents" tool.](https://mdonabella.github.io/assets/img/figure-2.png)
 
 In order to obtain the remaining fields, collocates and count, I relied upon two tools in the upper right hand corner of the application, “Document Terms” and “Collocates.” While “Document Terms” is a clear option (found to the right of “Trends”), “Collocates” can be selected in the top right corner of the tool window, under the second icon (next to the exportation option). The steps to extracting count and collocates are fairly similar to those for extracting the first several fields. 
 
@@ -60,7 +60,7 @@ In order to most effectively obtain and use Twitter data, I first applied for ac
 
 (1) Use existing Twitter credentials to login to [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard). (2) On the left side of the portal, click on “Projects & Apps” to create a first project and corresponding app. (3) Once a project has been defined and an app has been created, Twitter grants API access keys. Go to “Dashboard” within the Developer Portal and click on the key icon under “Development App” to generate keys. (4) Save keys in a separate, secure document for future use. (See Figure 3.)
 
-![Figure 3: Screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys](https://github.com/mdonabella/mdonabella.github.io/blob/0c6b67c87a860430cd4f2bf2f3d351ce324b5c48/assets/img/Screen%20Shot%202022-05-09%20at%201.50.04%20PM.png)
+![Figure 3: Screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys](https://mdonabella.github.io/assets/img/figure-3.png)
 
 #### Using Postman
 Getting access to the Twitter API was only the first step. The actual data extraction happened not through the Developer Platform itself, but through a website called [Postman](https://www.postman.com/), which facilitates the use of various APIs. Interaction with Postman for the specific purposes of this dataset worked slightly differently for each keyword search (or, each Sheet or topic in the dataset). In all cases, the first step involved entering my unique API keys under the “Authorization” tab within the Postman homepage. The remaining steps are below, separated by category.
@@ -70,7 +70,7 @@ To extract user information: (1) open Twitter and search “cyborg” under “u
 To extract tweet information: (1) In Postman, within the Twitter API, go to “Search Tweets.” (2) Select “Recent Search.” (3) Under “query,” within “Params,” define inital value as “cyborg,” and add any additional keywords; finally, in “query,” add “-is:reweet,” to avoid duplicates. (4) The other parameters should be defined as follows: max_results: 100; tweet_fields: created_at,lang,context_annotations. (5) Press “Get.” (See Figure 4.)
 
 
-![Figure 4: Screenshot of parameters and results for search within the Twitter API via Postman.](https://github.com/mdonabella/mdonabella.github.io/blob/0c6b67c87a860430cd4f2bf2f3d351ce324b5c48/assets/img/Screen%20Shot%202022-05-09%20at%201.35.40%20PM.png)
+![Figure 4: Screenshot of parameters and results for search within the Twitter API via Postman.](https://mdonabella.github.io/assets/img/figure-4.png)
 
 In both cases (user and tweet data), Postman will generate results in JSON format by default. For my purposes, to keep data congruent, I used a conversion tool (there are several accessible via quick Google search) to transfer the result into .csv format, which I then copied into my Spreadsheet. From there, I removed any potentially offensive tweets and organized results generated by the API to my liking.
 
@@ -82,8 +82,10 @@ With respect to literary and culture magazines alone, the dataset is best read a
 
 To answer the above inquiries, however, it seems worthwhile to explore common topics and keywords across media rather than within each individual domain. (See figures 5-8).
 
-![Figure 5: Screenshot of pie chart displaying first group of named entites by percentage.](https://github.com/mdonabella/mdonabella.github.io/blob/1417cb8cd1c8cf13b7909003c7f9195884798088/assets/img/Screen%20Shot%202022-05-09%20at%203.43.31%20PM.png) ![Figure: Screenshot of pie chart displaying second group of named entites by percentage.](https://github.com/mdonabella/mdonabella.github.io/blob/1417cb8cd1c8cf13b7909003c7f9195884798088/assets/img/Screen%20Shot%202022-05-09%20at%203.44.16%20PM.png) ![Figure 7: Screenshot of pie chart displaying third group of named entites by percentage.](https://github.com/mdonabella/mdonabella.github.io/blob/1417cb8cd1c8cf13b7909003c7f9195884798088/assets/img/Screen%20Shot%202022-05-09%20at%203.45.06%20PM.png) 
-![Figure 8: Screenshot of pie chart displaying user location by percentage.](https://github.com/mdonabella/mdonabella.github.io/blob/1417cb8cd1c8cf13b7909003c7f9195884798088/assets/img/Screen%20Shot%202022-05-09%20at%203.45.49%20PM.png)
+![Figure 5: Screenshot of pie chart displaying first group of named entites by percentage.](https://mdonabella.github.io/assets/img/figure-5.png) 
+![Figure: Screenshot of pie chart displaying second group of named entites by percentage.](https://mdonabella.github.io/assets/img/figure-6.png) 
+![Figure 7: Screenshot of pie chart displaying third group of named entites by percentage.](https://mdonabella.github.io/assets/img/figure-7.png) 
+![Figure 8: Screenshot of pie chart displaying user location by percentage.](https://mdonabella.github.io/assets/img/figure-8.png)
 
 The above figures show that auto ads (if we read further into Tweet text), popular entertainment, sci-fi films and cryptocurrency are among the most popular topics within tweets that use the term “cyborg” (located and diagnosed by the Twitter API). Relatedly, then, a plurality of Twitter users who identify as “cyborg” tag their location as “Metaverse” or “The Metaverse” (6.6% combined). Disability, medicine, and healthcare are not to be found among top named entities, while only five of the three hundred (or 1.7%) of the top searchable users two identify as cyborg also identify in their user description as disabled. Of almost seventy *New Yorker* articles that mention “cyborg,” 13% mention “tech” within their respective keywords, 18% mention “movie,” and some iteration of “super,” whether it be heroes or computers, is listed within title, keywords, or collocates in several documents. In contrast, “medicine” is only tagged as a keyword in one article and “disability” in zero. 
 
