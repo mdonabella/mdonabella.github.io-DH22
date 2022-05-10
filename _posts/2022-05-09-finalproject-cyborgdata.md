@@ -68,7 +68,7 @@ In order to most effectively obtain and use Twitter data, I first applied for ac
 
 *figure 3: screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys*
 
-#### Using Postman
+### Using Postman
 Getting access to the Twitter API was only the first step. The actual data extraction happened not through the Developer Platform itself, but through a website called [Postman](https://www.postman.com/), which facilitates the use of various APIs. Interaction with Postman for the specific purposes of this dataset worked slightly differently for each keyword search (or, each Sheet or topic in the dataset). In all cases, the first step involved entering my unique API keys under the “Authorization” tab within the Postman homepage. The remaining steps are below, separated by category.
 
 To extract user information: (1) open Twitter and search “cyborg” under “people.” (2) In Postman, within the Twitter API, go to “User Lookup,” found on the left-hand side of the webpage. (3) Under “User Lookup,” go to “GET Users by Username.” (3) Copy and paste up to one hundred usernames from the Twitter user search into the “usernames” field under “Query Params.” (4) The variables for “user.fields” should be set as follows: “created_at,id,description,location,name.” (5) Press “Get.”
