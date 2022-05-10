@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uses of "Cyborg" in the Popular Imagination
+title: Cyborg in the Popular Imagination
 subtitle: A Dataset
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
