@@ -56,10 +56,10 @@ To access count: (1) Under the “Document Terms” tool, type "cyborg*" into t
 
 To access collocates: (1) Select “Collocates” tool in the upper right corner. (2) As the identification of collocates must happen one document at a time; ensure that only one document is selected per search. (3) Again, type "cyborg*" into the search box. (4) Hover over any field within the tool, and select only “Collocate” and “Count.” (5) Export collocates for each document as “tab separated values (text)” and begin to populate the collocates field document by document. This time, both values will go within one single field.
 
-### Task 3: Cleaning, Sorting, & Adding Data
+#### Task 3: Cleaning, Sorting, & Adding Data
 Once all data from Voyant was added to my Spreadsheet, I finally sorted the entire sheet data by date. In the case of all publications except for *The New Inquiry*, I was able to copy all links at once into each sheet from my initial search (stored in a separate note for ease of transference), already arranged by date. The biggest hurdle in using Voyant to obtain data and metadata was the time it took to correct errors in identification, born not out of Voyant’s limitations, but in the lack of straight-foward tagging of certain fields, such as author and date, in the original HTML files embedded in article links (that would have allowed Voyant to pull said fields). 
 
-## Twitter Data, Twitter API, & Postman 
+### Twitter Data, Twitter API, & Postman 
 In order to most effectively obtain and use Twitter data, I first applied for access to Twitter’s basic (“elevated”) Application Programming Interface (API). To do this, I visited [Twitter’s Developer Access page](https://developer.twitter.com/en), selected the appropriate access level (“elevated,” based on my apparently limited credentials) and filled out an application form in which I described how I planned to use the API. My application was followed by a series of emails that prompted me to specify a bit more about my project and affiliations. After a day or two of back and forth, I was granted access. The steps to obtain necessary data, then work as follows:
 
 (1) Use existing Twitter credentials to login to [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard). (2) On the left side of the portal, click on “Projects & Apps” to create a first project and corresponding app. (3) Once a project has been defined and an app has been created, Twitter grants API access keys. Go to “Dashboard” within the Developer Portal and click on the key icon under “Development App” to generate keys. (4) Save keys in a separate, secure document for future use. (See Figure 3.)
@@ -68,7 +68,7 @@ In order to most effectively obtain and use Twitter data, I first applied for ac
 
 *figure 3: screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys*
 
-### Using Postman
+#### Using Postman
 Getting access to the Twitter API was only the first step. The actual data extraction happened not through the Developer Platform itself, but through a website called [Postman](https://www.postman.com/), which facilitates the use of various APIs. Interaction with Postman for the specific purposes of this dataset worked slightly differently for each keyword search (or, each Sheet or topic in the dataset). In all cases, the first step involved entering my unique API keys under the “Authorization” tab within the Postman homepage. The remaining steps are below, separated by category.
 
 To extract user information: (1) open Twitter and search “cyborg” under “people.” (2) In Postman, within the Twitter API, go to “User Lookup,” found on the left-hand side of the webpage. (3) Under “User Lookup,” go to “GET Users by Username.” (3) Copy and paste up to one hundred usernames from the Twitter user search into the “usernames” field under “Query Params.” (4) The variables for “user.fields” should be set as follows: “created_at,id,description,location,name.” (5) Press “Get.”
