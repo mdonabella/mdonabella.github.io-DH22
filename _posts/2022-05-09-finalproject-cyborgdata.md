@@ -121,7 +121,7 @@ Kafer, Alison. “Cyborg.” *Encyclopedia of American Disability History*, edit
 
 Kafer, Alison. *Feminist, Queer, Crip*. Indiana University Press, 2013, pp. 103-128. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/miami/detail.action?docID=1189107.
 
-Sandoval, Chéla. “Re-Entering Cyberspace: Sciences of Resistance.” Dispositio, vol. 19, no. 46, 1994, pp. 75–93. JSTOR, http://www.jstor.org/stable/41491506.
+Sandoval, Chéla. “Re-Entering Cyberspace: Sciences of Resistance.” *Dispositio*, vol. 19, no. 46, 1994, pp. 75–93. JSTOR, http://www.jstor.org/stable/41491506.
 
 Siebers, Tobin. “Disability in Theory: From Social Constructionism to the New Realism of the Body.” *American Literary History,* vol. 13, no. 4, 2001, pp. 737–54. JSTOR, http://www.jstor.org/stable/3054594.
 
