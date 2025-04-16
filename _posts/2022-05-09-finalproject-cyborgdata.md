@@ -37,7 +37,7 @@ In order to obtain data and metadata from each publication, I turned to [Voyant]
 #### Task 1: Getting Corpus to Voyant
 How, though, did Voyant aid in this process? The initial steps were fairly tedious, and to best create a visual, I will use the *The New Yorker* as an example: (1) Open Voyant. (2) In a separate tab, visit https://www.newyorker.com/. (2) Locate the general “search” function within *The New Yorker* website and search “cyborg.” (3)  Sort search by “newest.” (4) Right click the title of each article (yes, one by one) and “copy link address” into the box at the center of Voyant’s homepage, under “add text.” (5) With all links (dating back to 2012) copied into Voyant, click “Reveal” on the homepage (see Figure 1 for intended outcome at this stage). 
 
-![figure 1: screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://mdonabella.github.io-DH22/assets/img/figure-1.png)
+![figure 1: screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://mdonabella.github.io-DH22/assets/img/figure-1.png) 
 
 *figure 1: screenshot of Voyant's default text analysis in response to The New Yorker corpus*
 
