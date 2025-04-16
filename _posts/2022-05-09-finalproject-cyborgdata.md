@@ -37,7 +37,7 @@ In order to obtain data and metadata from each publication, I turned to [Voyant]
 #### Task 1: Getting Corpus to Voyant
 How, though, did Voyant aid in this process? The initial steps were fairly tedious, and to best create a visual, I will use the *The New Yorker* as an example: (1) Open Voyant. (2) In a separate tab, visit https://www.newyorker.com/. (2) Locate the general “search” function within *The New Yorker* website and search “cyborg.” (3)  Sort search by “newest.” (4) Right click the title of each article (yes, one by one) and “copy link address” into the box at the center of Voyant’s homepage, under “add text.” (5) With all links (dating back to 2012) copied into Voyant, click “Reveal” on the homepage (see Figure 1 for intended outcome at this stage). 
 
-![figure 1: screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://mdonabella.github.io/assets/img/figure-1.png)
+![figure 1: screenshot of Voyant's default text analysis in response to *The New Yorker* corpus](https://mdonabella.github.io-DH22/assets/img/figure-1.png)
 
 *figure 1: screenshot of Voyant's default text analysis in response to The New Yorker corpus*
 
@@ -46,7 +46,7 @@ From here, I was able to generate much of my desired information about each arti
 
 (1) Choose the “Documents” tab in the bottom left of the application. (2) Hover mouse above the top right of any one of the fields within the tool (e.g., hover mouse in the top right of “Tile”). (3) A down arrow should become visible; click on it and then select “Columns.” (4) Under “Columns,” select “Title,” “Author,” “Date,” and “Keywords.” (5) Voyant will populate the “Documents” tool with all fields it can locate based on the website-specific HTML tags. Some fields will be missing or inaccurate; remove these fields (for example, HTML files from *The New Yorker* will not allow Voyant to pull author and date, but HTML files from *The Atlantic* will). (6) As the final step in this stage, hover mouse over the top right of the “Document” tool and click on the left-most icon (to export the data). (7) Under exportation options, click “Export Current Data” then “export data as tab separated values (text)." The screen should look like the figure below (Figure 2). (8) Open a .csv file. (9) Paste this data into the newly created .csv file. 
 
-![figure 2: screenshot of the exportation of first several fields yielded by Voyant as tab separated values using the "Documents" tool](https://mdonabella.github.io/assets/img/figure-2.png)
+![figure 2: screenshot of the exportation of first several fields yielded by Voyant as tab separated values using the "Documents" tool](https://mdonabella.github.io-DH22/assets/img/figure-2.png)
 
 *figure 2: screenshot of the exportation of first several fields yielded by Voyant as tab separated values using the "Documents" tool*
 
@@ -64,7 +64,7 @@ In order to most effectively obtain and use Twitter data, I first applied for ac
 
 (1) Use existing Twitter credentials to login to [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard). (2) On the left side of the portal, click on “Projects & Apps” to create a first project and corresponding app. (3) Once a project has been defined and an app has been created, Twitter grants API access keys. Go to “Dashboard” within the Developer Portal and click on the key icon under “Development App” to generate keys. (4) Save keys in a separate, secure document for future use. (See Figure 3.)
 
-![figure 3: screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys](https://mdonabella.github.io/assets/img/figure-3.png)
+![figure 3: screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys](https://mdonabella.github.io-DH22/assets/img/figure-3.png)
 
 *figure 3: screenshot of Twitter Developer Portal "Dashboard," with emphasis on location of Access Keys*
 
@@ -76,7 +76,7 @@ To extract user information: (1) open Twitter and search “cyborg” under “p
 To extract tweet information: (1) In Postman, within the Twitter API, go to “Search Tweets.” (2) Select “Recent Search.” (3) Under “query,” within “Params,” define inital value as “cyborg,” and add any additional keywords; finally, in “query,” add “-is:reweet,” to avoid duplicates. (4) The other parameters should be defined as follows: max_results: 100; tweet_fields: created_at,lang,context_annotations. (5) Press “Get.” (See Figure 4.)
 
 
-![figure 4: screenshot of parameters and results for search within the Twitter API via Postman](https://mdonabella.github.io/assets/img/figure-4.png)
+![figure 4: screenshot of parameters and results for search within the Twitter API via Postman](https://mdonabella.github.io-DH22/assets/img/figure-4.png)
 
 *figure 4: screenshot of parameters and results for search within the Twitter API via Postman*
 
@@ -90,19 +90,19 @@ With respect to literary and culture magazines alone, the dataset is best read a
 
 To answer the above inquiries, however, it seems worthwhile to explore common topics and keywords across media rather than within each individual domain. (See figures 5-8.)
 
-![figure 5: screenshot of pie chart displaying first group of named entites by percentage](https://mdonabella.github.io/assets/img/figure-5.png) 
+![figure 5: screenshot of pie chart displaying first group of named entites by percentage](https://mdonabella.github.io-DH22/assets/img/figure-5.png) 
 
 *figure 5: screenshot of pie chart displaying first group of named entites by percentage*
 
-![figure 6: screenshot of pie chart displaying second group of named entites by percentage](https://mdonabella.github.io/assets/img/figure-6.png) 
+![figure 6: screenshot of pie chart displaying second group of named entites by percentage](https://mdonabella.github.io-DH22/assets/img/figure-6.png) 
 
 *figure 6: screenshot of pie chart displaying second group of named entites by percentage*
 
-![figure 7: screenshot of pie chart displaying third group of named entites by percentage](https://mdonabella.github.io/assets/img/figure-7.png) 
+![figure 7: screenshot of pie chart displaying third group of named entites by percentage](https://mdonabella.github.io-DH22/assets/img/figure-7.png) 
 
 *figure 7: screenshot of pie chart displaying third group of named entites by percentage*
 
-![figure 8: screenshot of pie chart displaying user location by percentage](https://mdonabella.github.io/assets/img/figure-8.png)
+![figure 8: screenshot of pie chart displaying user location by percentage](https://mdonabella.github.io-DH22/assets/img/figure-8.png)
 
 *figure 8: screenshot of pie chart displaying user location by percentage*
 
